@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yalantis.filter">
+    package="com.avrazsardar.filter">
 
     <application
         android:allowBackup="true"

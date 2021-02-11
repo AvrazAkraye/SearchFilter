@@ -1,11 +1,11 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.FrameLayout
-import com.yalantis.filter.R
+import com.avrazsardar.filter.R
 import kotlinx.android.synthetic.main.view_collapse.view.*
 
 /**

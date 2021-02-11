@@ -39,14 +39,14 @@
         android:layout_below="@+id/dividerTop"
         android:layout_toLeftOf="@+id/collapseView">
 
-        <com.yalantis.filter.widget.CollapsedFilterView
+        <com.avrazsardar.filter.widget.CollapsedFilterView
             android:id="@+id/collapsedFilter"
             android:layout_width="wrap_content"
             android:layout_height="@dimen/container_height" />
 
     </HorizontalScrollView>
 
-    <com.yalantis.filter.widget.CollapseView
+    <com.avrazsardar.filter.widget.CollapseView
         android:id="@+id/collapseView"
         android:layout_width="@dimen/item_height"
         android:layout_height="@dimen/item_height"

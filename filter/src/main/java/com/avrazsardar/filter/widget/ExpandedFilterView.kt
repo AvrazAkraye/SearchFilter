@@ -1,13 +1,13 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
 import android.view.ViewGroup
-import com.yalantis.filter.R
-import com.yalantis.filter.listener.CollapseListener
-import com.yalantis.filter.model.Coord
+import com.avrazsardar.filter.R
+import com.avrazsardar.filter.listener.CollapseListener
+import com.avrazsardar.filter.model.Coord
 import java.util.*
 
 /**

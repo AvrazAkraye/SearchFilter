@@ -1,4 +1,4 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.util.DisplayMetrics
 import android.view.View

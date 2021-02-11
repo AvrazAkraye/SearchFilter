@@ -1,8 +1,8 @@
-package com.yalantis.fitfilter;
+package com.avrazsardar.fitfilter;
 
 import android.support.annotation.NonNull;
 
-import com.yalantis.filter.model.FilterModel;
+import com.avrazsardar.filter.model.FilterModel;
 
 /**
  * Created by galata on 16.09.16.

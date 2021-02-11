@@ -1,13 +1,13 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.animation.ValueAnimator
 import android.content.Context
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.ViewGroup
-import com.yalantis.filter.Constant
-import com.yalantis.filter.R
-import com.yalantis.filter.listener.CollapseListener
+import com.avrazsardar.filter.Constant
+import com.avrazsardar.filter.R
+import com.avrazsardar.filter.listener.CollapseListener
 
 /**
  * Created by galata on 08.09.16.

@@ -1,4 +1,4 @@
-package com.yalantis.fitfilter;
+package com.avrazsardar.fitfilter;
 
 import java.util.List;
 

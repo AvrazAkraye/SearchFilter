@@ -1,4 +1,4 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.animation.ValueAnimator
 import android.content.Context
@@ -8,21 +8,19 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.FrameLayout
-import com.yalantis.filter.Constant
-import com.yalantis.filter.R
-import com.yalantis.filter.adapter.FilterAdapter
-import com.yalantis.filter.listener.CollapseListener
-import com.yalantis.filter.listener.FilterItemListener
-import com.yalantis.filter.listener.FilterListener
-import com.yalantis.filter.model.Coord
-import com.yalantis.filter.model.FilterModel
+import com.avrazsardar.filter.Constant
+import com.avrazsardar.filter.R
+import com.avrazsardar.filter.adapter.FilterAdapter
+import com.avrazsardar.filter.listener.CollapseListener
+import com.avrazsardar.filter.listener.FilterItemListener
+import com.avrazsardar.filter.listener.FilterListener
+import com.avrazsardar.filter.model.Coord
+import com.avrazsardar.filter.model.FilterModel
 import kotlinx.android.synthetic.main.collapsed_container.view.*
 import kotlinx.android.synthetic.main.filter.view.*
 import java.io.Serializable
 import java.util.*
-import android.content.res.TypedArray
 import android.graphics.Color
-import android.support.annotation.ColorInt
 
 
 /**

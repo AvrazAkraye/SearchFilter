@@ -1,4 +1,4 @@
-package com.yalantis.filter.animator
+package com.avrazsardar.filter.animator
 
 import android.animation.ValueAnimator
 import android.support.v4.animation.AnimatorCompatHelper

@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <com.yalantis.filter.widget.ExpandedFilterView
+            <com.avrazsardar.filter.widget.ExpandedFilterView
                 android:id="@+id/expandedFilter"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
         </ScrollView>
     </FrameLayout>
 
-    <com.yalantis.filter.widget.CollapsedFilterContainer
+    <com.avrazsardar.filter.widget.CollapsedFilterContainer
         android:id="@+id/collapsedContainer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

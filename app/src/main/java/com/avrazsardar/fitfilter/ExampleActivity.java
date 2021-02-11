@@ -1,6 +1,5 @@
-package com.yalantis.fitfilter;
+package com.avrazsardar.fitfilter;
 
-import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -10,11 +9,11 @@ import android.support.v7.widget.RecyclerView;
 
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.facebook.imagepipeline.core.ImagePipelineConfig;
-import com.yalantis.filter.adapter.FilterAdapter;
-import com.yalantis.filter.animator.FiltersListItemAnimator;
-import com.yalantis.filter.listener.FilterListener;
-import com.yalantis.filter.widget.Filter;
-import com.yalantis.filter.widget.FilterItem;
+import com.avrazsardar.filter.adapter.FilterAdapter;
+import com.avrazsardar.filter.animator.FiltersListItemAnimator;
+import com.avrazsardar.filter.listener.FilterListener;
+import com.avrazsardar.filter.widget.Filter;
+import com.avrazsardar.filter.widget.FilterItem;
 
 import org.jetbrains.annotations.NotNull;
 

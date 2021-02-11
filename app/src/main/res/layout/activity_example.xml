@@ -61,7 +61,7 @@
             android:layout_marginTop="@dimen/container_height"
             tools:listitem="@layout/item_list" />
 
-        <com.yalantis.filter.widget.Filter
+        <com.avrazsardar.filter.widget.Filter
             android:id="@+id/filter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

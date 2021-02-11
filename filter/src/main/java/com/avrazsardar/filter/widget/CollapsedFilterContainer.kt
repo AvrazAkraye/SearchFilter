@@ -1,4 +1,4 @@
-package com.yalantis.filter.widget
+package com.avrazsardar.filter.widget
 
 import android.content.Context
 import android.graphics.Color
@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.MotionEvent
 import android.widget.RelativeLayout
-import com.yalantis.filter.R
-import com.yalantis.filter.listener.CollapseListener
+import com.avrazsardar.filter.R
+import com.avrazsardar.filter.listener.CollapseListener
 import kotlinx.android.synthetic.main.collapsed_container.view.*
 
 /**

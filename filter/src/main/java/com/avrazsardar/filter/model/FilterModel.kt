@@ -1,4 +1,4 @@
-package com.yalantis.filter.model
+package com.avrazsardar.filter.model
 
 import java.io.Serializable
 

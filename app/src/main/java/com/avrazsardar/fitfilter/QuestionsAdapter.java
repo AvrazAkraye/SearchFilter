@@ -1,4 +1,4 @@
-package com.yalantis.fitfilter;
+package com.avrazsardar.fitfilter;
 
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;

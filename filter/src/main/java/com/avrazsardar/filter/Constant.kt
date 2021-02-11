@@ -1,4 +1,4 @@
-package com.yalantis.filter
+package com.avrazsardar.filter
 
 /**
  * Created by galata on 30.08.16.

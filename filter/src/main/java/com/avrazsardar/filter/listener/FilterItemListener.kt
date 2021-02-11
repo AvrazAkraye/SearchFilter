@@ -1,6 +1,6 @@
-package com.yalantis.filter.listener
+package com.avrazsardar.filter.listener
 
-import com.yalantis.filter.widget.FilterItem
+import com.avrazsardar.filter.widget.FilterItem
 
 /**
  * Created by galata on 08.09.16.
